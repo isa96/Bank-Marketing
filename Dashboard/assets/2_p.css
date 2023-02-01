@@ -1,0 +1,12 @@
+.h1FirstTab {
+    text-align: center;
+    color: #008080
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 5px 10px; /* top&bottom 5px, right&left 10px */
+    text-align: center;
+}
